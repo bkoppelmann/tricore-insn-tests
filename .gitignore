@@ -1,0 +1,7 @@
+*.o
+*.elf
+qemu.log
+Sim.*
+test/*
+__pycache__/
+
